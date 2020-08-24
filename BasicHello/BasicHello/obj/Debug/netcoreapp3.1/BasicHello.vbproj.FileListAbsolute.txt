@@ -1,0 +1,13 @@
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\bin\Debug\netcoreapp3.1\BasicHello.exe
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\bin\Debug\netcoreapp3.1\BasicHello.deps.json
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\bin\Debug\netcoreapp3.1\BasicHello.runtimeconfig.json
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\bin\Debug\netcoreapp3.1\BasicHello.runtimeconfig.dev.json
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\bin\Debug\netcoreapp3.1\BasicHello.dll
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\bin\Debug\netcoreapp3.1\BasicHello.pdb
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\obj\Debug\netcoreapp3.1\BasicHello.vbprojAssemblyReference.cache
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\obj\Debug\netcoreapp3.1\BasicHello.AssemblyInfoInputs.cache
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\obj\Debug\netcoreapp3.1\BasicHello.AssemblyInfo.vb
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\obj\Debug\netcoreapp3.1\BasicHello.vbproj.CoreCompileInputs.cache
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\obj\Debug\netcoreapp3.1\BasicHello.dll
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\obj\Debug\netcoreapp3.1\BasicHello.pdb
+C:\Users\Timothy\Desktop\Basic Programs\BasicHello\BasicHello\obj\Debug\netcoreapp3.1\BasicHello.genruntimeconfig.cache
